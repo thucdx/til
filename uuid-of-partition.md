@@ -14,4 +14,3 @@ lrwxrwxrwx 1 root root 10 Feb 16 15:25 7F449A70630C478D -> ../../sda6
 lrwxrwxrwx 1 root root 10 Feb 16 15:25 f07b07c8-5257-4f81-b53b-206043a3f75a -> ../../d
 
 ```
-
