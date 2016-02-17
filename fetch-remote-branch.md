@@ -10,3 +10,6 @@ or
 ```
 git checkout --track -b <remote>/<branch>
 ```
+
+Ref
+[Stackoverflow discussion](http://stackoverflow.com/questions/9537392/git-fetch-remote-branch)
